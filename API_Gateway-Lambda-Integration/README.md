@@ -29,7 +29,7 @@ The API Gateway REST API is defined in `api-gateway.tf`. It exposes a POST metho
 
 ## IAM
 
-Required IAM role and Policy Attachment are defined in the Terraform resurces.
+Required IAM role and Policy Attachment are defined in the Terraform resources.
 
 ## Deployment
 
